@@ -1,4 +1,4 @@
-"language": "python",
-  "group": "stable",
-  "dist": "trusty",
-  "os": "linux"
+language: python
+  python:
+    - 3.6
+    - nightly
