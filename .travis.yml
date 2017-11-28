@@ -2,6 +2,9 @@ language: python
   python:
     - 3.6
     - nightly
+dist: trusty
+sudo: required
+
 notifications:
   email:
     recipients:
